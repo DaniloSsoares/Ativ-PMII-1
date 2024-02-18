@@ -1,4 +1,4 @@
-fun main(args:Array<String>) {
+fun main() {
     var opcao: Int = 0
     while(opcao != -1){
         val line = readLine() ?: "0"

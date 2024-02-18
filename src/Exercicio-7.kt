@@ -1,4 +1,4 @@
-fun main(args:Array<String>){
+fun main(){
 
     var a: Int= 33.dec()
     var b: String = a.toString()

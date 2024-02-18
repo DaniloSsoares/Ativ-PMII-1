@@ -8,7 +8,7 @@ inline fun transacao(funcao: () -> Unit){
     }
 }
 
-fun main(args: Array<String>){
+fun main(){
     transacao {
         println("Executando SQL 1...")
         println("Executando SQL 2...")

@@ -1,4 +1,4 @@
-fun main(args:Array<String>){
+fun main(){
     val nota = 4
     when(nota){
         10,9 -> println("Fantastico")

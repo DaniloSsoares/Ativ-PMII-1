@@ -1,4 +1,4 @@
-fun main(args:Array<String>){
+fun main(){
     val nota = 9
 
   if(nota in 9 .. 10){

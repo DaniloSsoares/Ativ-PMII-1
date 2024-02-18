@@ -1,4 +1,4 @@
-fun main(args:Array<String>){
+fun main(){
     println(soma(2,3))
     println(soma(11))
 }

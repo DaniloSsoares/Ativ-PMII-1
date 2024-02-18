@@ -1,6 +1,6 @@
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-fun main(args:Array<String>) {
+fun main() {
 //Tipos Númericos
     val num1: Byte = 127
     val num2: Short = 32767

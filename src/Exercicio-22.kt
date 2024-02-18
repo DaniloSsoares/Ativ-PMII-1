@@ -1,4 +1,4 @@
-fun main(args:Array<String>){
+fun main(){
     println("O menor valor é ${min(3,4)}")
 }
 

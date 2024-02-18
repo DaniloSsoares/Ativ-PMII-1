@@ -1,4 +1,4 @@
-fun main(args:Array<String>){
+fun main(){
     imprimirSoma(12 , 564)
     imprimirSub()
 }

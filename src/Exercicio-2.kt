@@ -1,4 +1,4 @@
-fun main(args: Array<String>){
+fun main(){
     val a: Int = 2
     var b: Int
     b = 120
